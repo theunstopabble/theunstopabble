@@ -119,11 +119,30 @@ const gautam = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=theunstopabble&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+
+![Stars](https://img.shields.io/badge/Total%20Stars-33-yellow?style=for-the-badge&logo=github)
+
+
+
+
+![Commits](https://img.shields.io/badge/Total%20Commits-650+-blue?style=for-the-badge&logo=github)
+
+
+
+
+![Repos](https://img.shields.io/badge/Public%20Repos-36-green?style=for-the-badge&logo=github)
+
+
+
+
+![Followers](https://img.shields.io/badge/Followers-6-orange?style=for-the-badge&logo=github)
+
+
 
 </div>
 
