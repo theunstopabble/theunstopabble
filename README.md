@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Gautam+Kumar+👋;Full-Stack+Developer+%26+AI+Engineer;Building+real+products%2C+not+tutorials+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I%27m+Gautam+Kumar+%F0%9F%91%8B;Full-Stack+Developer+%26+AI+Engineer;Building+real+products%2C+not+tutorials+%F0%9F%9A%80)
+
+](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gautam%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20CS%20@%20Jagannath%20University&descAlignY=55&descSize=16" />
 
