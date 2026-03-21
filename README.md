@@ -47,6 +47,7 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+<img style="margin: 10px" src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
