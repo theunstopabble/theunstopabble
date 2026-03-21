@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🔭 Recently shipped **[Satark-AI](https://github.com/theunstopabble)** — Deepfake Detection Platform with PyTorch, SpeechBrain & Microsoft Azure  
+- 🔭 Recently shipped **[Satark-AI](https://github.com/theunstopabble/Satark-AI)** — Audio Deepfake Detection Platform using PyTorch, SpeechBrain & Microsoft Azure
 - 🌱 Currently exploring new project ideas & sharpening AI/ML skills
 - 🏢 Ex-Intern @ **Microsoft Elevate × AICTE** | **Edunet Foundation (AICTE × IBM)** | **YHills**  
 - 🤖 Deep into **Agentic AI**, **Microservice Architecture**, and **Real-time Systems**  
