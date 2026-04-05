@@ -41,14 +41,14 @@ const gautam = {
 
 ### 🎤 [InterviewMinds](https://interviewminds.vercel.app/) — AI Mock Interview Platform
 
-> Groq **Llama 3.3-70B** with resume-aware questioning, 3 AI personas & weighted ensemble scoring
+> TurboRepo monorepo — **Groq (Llama 3) + Google Gemini** with resume-aware questioning, 3 AI personas & real-time proctoring
 
-- 🎭 Real-time face detection + emotion analysis (TensorFlow.js) + anti-cheat proctoring
-- 🎙️ Voice-to-voice interviews via Web Speech API + Azure Neural TTS/SSML
-- 🔒 Local embeddings pipeline (Xenova/MiniLM-L6-v2) — **zero API cost, 100% privacy**
-- 💻 Live Monaco code editor with multi-language execution via Piston API
+- 🎭 Face detection + emotion analysis (TensorFlow.js) + tab-switch anti-cheat enforcement
+- 🎙️ Voice-to-voice interviews via Web Speech API (STT/TTS) — ultra-low latency <500ms
+- 💻 Live code sandbox with multi-language compiler + Cloudinary media storage
+- 🔐 Clerk authentication (Google/GitHub/Email) + MongoDB (Mongoose)
 
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Groq](https://img.shields.io/badge/Groq_Llama3-F54B27?style=flat) ![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Azure](https://img.shields.io/badge/Azure_TTS-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F54B27?style=flat) ![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat)
 
 [![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/theunstopabble/InterviewMinds) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://interviewminds.vercel.app/)
 
@@ -56,13 +56,13 @@ const gautam = {
 
 ### 🛡️ [Satark-AI](https://satark-deepfake.vercel.app/) — Deepfake Detection & Defense System
 
-> 3-tier microservice (React + Hono + FastAPI) for **audio deepfake detection** — Microsoft Azure capstone
+> 3-tier monorepo (React + Hono + FastAPI) for **audio deepfake detection** — Microsoft Azure capstone
 
 - 🧠 SpeechBrain ECAPA-TDNN (192-dim embeddings) + MFCC/Spectral forensics via Librosa
 - 🔐 SHA-256 deduplication, PostgreSQL (Drizzle ORM), Docker Compose orchestration
-- 📡 Real-time microphone monitoring + PWA-ready frontend with i18n
+- 📡 Real-time microphone monitoring (5-sec chunk analysis) + PWA-ready frontend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![SpeechBrain](https://img.shields.io/badge/SpeechBrain-7B2FBE?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![SpeechBrain](https://img.shields.io/badge/SpeechBrain-7B2FBE?style=flat)
 
 [![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/theunstopabble/Satark-AI) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://satark-deepfake.vercel.app/)
 
@@ -70,13 +70,13 @@ const gautam = {
 
 ### 🍔 [SwadKart](https://swadkart.vercel.app/) — Multi-Vendor Food Delivery Ecosystem
 
-> Full-featured food delivery platform with 4-role RBAC and biometric authentication
+> Full-featured food delivery platform with 4-role RBAC — **Express 5 + MongoDB + Socket.io**
 
-- 🔐 **FIDO2 WebAuthn** biometric auth (Fingerprint/FaceID) + replay attack protection
-- 📍 Real-time order tracking (Socket.io + GPS) + Leaflet.js demand heatmaps
-- 💳 Razorpay payments, wallet system, coupon engine + Groq-powered AI chatbot
+- 🔐 **FIDO2 WebAuthn** biometric auth (Fingerprint/FaceID) + Firebase + JWT hybrid auth
+- 📍 Real-time order tracking (Socket.io) + Leaflet.js demand heatmaps + Redis caching
+- 💳 Razorpay + Stripe payments, wallet system, coupon engine + Cloudinary image uploads
 
-![Express](https://img.shields.io/badge/Express5-404d59?style=flat&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io) ![WebAuthn](https://img.shields.io/badge/WebAuthn_FIDO2-4285F4?style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
+![Express](https://img.shields.io/badge/Express_5-404d59?style=flat&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io) ![WebAuthn](https://img.shields.io/badge/WebAuthn_FIDO2-4285F4?style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
 
 [![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/theunstopabble/SwadKart-pro) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://swadkart.vercel.app/)
 
@@ -84,13 +84,13 @@ const gautam = {
 
 ### 📄 [TexFolio](https://texfolio.vercel.app/) — AI-Powered LaTeX Resume Builder SaaS
 
-> LangGraph state machine + NVIDIA NIM (Llama 3.1-70B) producing 0–100 ATS scores
+> **LangGraph multi-agent pipeline** + NVIDIA NIM (Primary) / Gemini / Groq (Fallback) — 0–100 ATS scoring
 
-- 📝 5-stage PDF pipeline: Mustache → pdflatex — native LaTeX rendering
-- 🤖 AI tools: bullet generator, text improver, cover letter writer
-- 🖱️ Drag-and-drop reordering (dnd-kit) + Razorpay payments
+- 📝 Real LaTeX rendering via `pdflatex` — FAANGPath & Classic templates, native typography
+- 🤖 AI tools: bullet generator, text improver, cover letter writer, LinkedIn PDF import
+- 🖱️ Drag-and-drop reordering (dnd-kit) + Razorpay payments + Brevo email delivery
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat&logo=nvidia&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat&logo=nvidia&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) ![React_19](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind_v4](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 [![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/theunstopabble/TexFolio) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://texfolio.vercel.app/)
 
@@ -98,7 +98,7 @@ const gautam = {
 
 ## 💻 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TurboRepo](https://img.shields.io/badge/TurboRepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F54B27?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
