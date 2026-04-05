@@ -106,8 +106,19 @@ const gautam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=theunstopabble&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunstopabble&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" />
+<img src="https://github-stats-alpha.vercel.app/api?username=theunstopabble" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=theunstopabble&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=theunstopabble&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
 
 </div>
 
