@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍ About Me
 
 ```typescript
 const gautam = {
@@ -106,14 +106,14 @@ const gautam = {
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theunstopabble&theme=tokyo_night)
+<img src="https://github-readme-stats.vercel.app/api?username=theunstopabble&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunstopabble&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" />
 
 </div>
 
 <div align="center">
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theunstopabble&theme=tokyo_night)
-![GitHub Streak](https://streak-stats.demolab.com?user=theunstopabble&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=theunstopabble&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
 
 </div>
 
@@ -123,26 +123,11 @@ const gautam = {
 
 <div align="center">
 
-
-
 ![Stars](https://img.shields.io/badge/Total%20Stars-33-yellow?style=for-the-badge&logo=github)
 
+![Repos](https://img.shields.io/badge/Public%20Repos-16-green?style=for-the-badge&logo=github)
 
-
-
-![Commits](https://img.shields.io/badge/Total%20Commits-650+-blue?style=for-the-badge&logo=github)
-
-
-
-
-![Repos](https://img.shields.io/badge/Public%20Repos-36-green?style=for-the-badge&logo=github)
-
-
-
-
-![Followers](https://img.shields.io/badge/Followers-6-orange?style=for-the-badge&logo=github)
-
-
+![Followers](https://img.shields.io/badge/Followers-7-orange?style=for-the-badge&logo=github)
 
 </div>
 
