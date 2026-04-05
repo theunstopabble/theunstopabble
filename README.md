@@ -116,32 +116,6 @@ const gautam = {
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=theunstopabble&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=theunstopabble&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Stars](https://img.shields.io/badge/Total%20Stars-33-yellow?style=for-the-badge&logo=github)
-
-![Repos](https://img.shields.io/badge/Public%20Repos-16-green?style=for-the-badge&logo=github)
-
-![Followers](https://img.shields.io/badge/Followers-7-orange?style=for-the-badge&logo=github)
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
