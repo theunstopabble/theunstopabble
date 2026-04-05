@@ -106,14 +106,14 @@ const gautam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=theunstopabble&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunstopabble&theme=tokyonight&hide_border=true&layout=compact" height="180" />
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theunstopabble&theme=tokyo_night)
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=theunstopabble&theme=tokyonight&hide_border=true" />
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theunstopabble&theme=tokyo_night)
+![GitHub Streak](https://streak-stats.demolab.com?user=theunstopabble&theme=tokyonight&hide_border=true)
 
 </div>
 
