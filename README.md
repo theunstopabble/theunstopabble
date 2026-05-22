@@ -47,7 +47,7 @@ const gautam = {
 - 📝 Custom CRDT three-way merge algorithm for real-time collaborative code editing (no data loss)
 - 📹 WebRTC video calls with STUN/TURN + optional SFU + media recording service
 - ⚡ Groq Llama 3.3-70b (<500ms latency) + multimodal voice tone analysis + Piston code sandbox
-- � E2E encryption (RSA-4096 + AES-256-GCM), RBAC, audit trails, circuit breakers
+- 🔒 E2E encryption (RSA-4096 + AES-256-GCM), RBAC, audit trails, circuit breakers
 
 ![React](https://img.shields.io/badge/React_18-20232a?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_20-6DA55F?style=flat&logo=node.js&logoColor=white) ![Groq](https://img.shields.io/badge/Groq_Llama_3.3-F54B27?style=flat) ![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 
@@ -60,7 +60,7 @@ const gautam = {
 > Turborepo microservices (React + Hono + FastAPI + Cloudflare Worker) — **3 AI models, multi-modal detection**
 
 - 🧠 Audio deepfake: Wav2Vec2 + MFCC/Spectral forensics + Zero Crossing Rate analysis
-- �️ Image deepfake: NVIDIA NIM (Llama 3.2-90B Vision) via serverless Cloudflare Worker proxy
+- 🖼️ Image deepfake: NVIDIA NIM (Llama 3.2-90B Vision) via serverless Cloudflare Worker proxy
 - 🆔 Speaker verification: ECAPA-TDNN 192-dim embeddings + cosine similarity (threshold: 0.75)
 - 🎙️ Real-time microphone monitoring (5-sec chunks) + analytics dashboard + PDF reports
 - 🔒 Per-user scoped speaker isolation, SHA-256 deduplication, lazy model loading (OOM prevention)
