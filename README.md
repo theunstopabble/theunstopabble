@@ -25,13 +25,17 @@
 
 ```typescript
 const gautam = {
-  role:        "Full-Stack Developer & AI Engineer",
-  university:  "Jagannath University, Jaipur (B.Tech CSE, 2023–2027)",
-  internships: ["Microsoft Elevate × AICTE", "Edunet Foundation (AICTE × IBM)", "YHills"],
-  shipped:     ["InterviewMinds", "Satark-AI", "SwadKart", "TexFolio"],
-  stack:       ["React", "Node.js", "Python", "LangGraph", "Docker", "NVIDIA NIM"],
-  currentFocus:"Agentic AI · Microservice Architecture · Real-time Systems",
-  funFact:     "I build real products, not just tutorials ⚡",
+  role: "Full-Stack Developer & AI Engineer",
+  university: "Jagannath University, Jaipur (B.Tech CSE, 2023–2027)",
+  internships: [
+    "Microsoft Elevate × AICTE",
+    "Edunet Foundation (AICTE × IBM)",
+    "YHills",
+  ],
+  shipped: ["InterviewMinds", "Satark-AI", "SwadKart", "TexFolio"],
+  stack: ["React", "Node.js", "Python", "LangGraph", "Docker", "NVIDIA NIM"],
+  currentFocus: "Agentic AI · Microservice Architecture · Real-time Systems",
+  funFact: "I build real products, not just tutorials ⚡",
 };
 ```
 
@@ -85,7 +89,7 @@ const gautam = {
 
 ![Express](https://img.shields.io/badge/Express_5-404d59?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232a?style=flat&logo=react&logoColor=61DAFB) ![Socket.io](https://img.shields.io/badge/Socket.IO-black?style=flat&logo=socket.io) ![WebAuthn](https://img.shields.io/badge/WebAuthn_FIDO2-4285F4?style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Groq](https://img.shields.io/badge/Groq_LLM-F54B27?style=flat) ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
 
-[![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/theunstopabble/SwadKart-pro) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://swadkart.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/theunstopabble/swadkart) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://swadkart.vercel.app/)
 
 ---
 
