@@ -25,7 +25,8 @@
 
 ```typescript
 const gautam = {
-  role: "Full-Stack Developer & AI Engineer",
+  role: "Full-Stack Developer | Solo-shipped 4 SaaS products | AI integration
+",
   university: "Jagannath University, Jaipur (B.Tech CSE, 2023–2027)",
   internships: [
     "Microsoft Elevate × AICTE",
@@ -45,7 +46,7 @@ const gautam = {
 
 ---
 
-### 🎤 [InterviewMinds](https://interviewminds.vercel.app/) — Enterprise AI Mock Interview Platform
+### 🎤 [InterviewMinds](https://interviewminds.vercel.app/) — Production-grade AI Mock Interview Platform
 
 > Turborepo monorepo with **81 service modules** — Groq Llama 3.3-70b, ML proctoring, CRDT collaboration, WebRTC video
 
