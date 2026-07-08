@@ -25,7 +25,7 @@
 
 ```typescript
 const gautam = {
- role: "Full-Stack Developer | Solo-shipped 4 SaaS Products | AI Integration",
+ role: "Full-Stack Developer | Solo-shipped SaaS Products | AI Integration",
   university: "Jagannath University, Jaipur (B.Tech CSE, 2023–2027)",
   internships: [
     "Microsoft Elevate × AICTE",
