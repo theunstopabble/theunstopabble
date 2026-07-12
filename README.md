@@ -26,6 +26,8 @@
 ```typescript
 const gautam = {
  role: "Full-Stack Developer | Solo-shipped SaaS Products | AI Integration",
+  origin: "Sitamarhi, Bihar, India",
+  current: "Jaipur, Rajasthan, India",
   university: "Jagannath University, Jaipur (B.Tech CSE, 2023–2027)",
   internships: [
     "Microsoft Elevate × AICTE",
