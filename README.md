@@ -19,11 +19,11 @@
 
 </div>
 
----
-
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=theunstopabble" alt="Profile visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=theunstopabble" alt="Visitors" />
 </div>
+
+---
 
 ## 🧑‍ About Me
 
