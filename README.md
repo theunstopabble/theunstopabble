@@ -6,12 +6,13 @@
 
 </div>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=theunstopabble" alt="Visitors" />
+</div>
+
 ---
 
 <div align="center">
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=theunstopabble" alt="Visitors" />
-  <br>
 
 <p align="center">
   <a href="https://linkedin.com/in/gautamkr62/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
