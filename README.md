@@ -41,6 +41,10 @@ const gautam = {
 };
 ```
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=theunstopabble" alt="Profile visitors" />
+</div>
+
 ---
 
 ## 🚀 Featured Projects
@@ -146,7 +150,5 @@ const gautam = {
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-![](https://visitor-badge.laobi.icu/badge?page_id=theunstopabble)
 
 </div>
