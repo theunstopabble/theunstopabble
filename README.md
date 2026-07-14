@@ -21,6 +21,10 @@
 
 ---
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=theunstopabble" alt="Profile visitors" />
+</div>
+
 ## 🧑‍ About Me
 
 ```typescript
@@ -40,10 +44,6 @@ const gautam = {
   funFact: "I build real products, not just tutorials ⚡",
 };
 ```
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=theunstopabble" alt="Profile visitors" />
-</div>
 
 ---
 
